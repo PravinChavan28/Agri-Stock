@@ -6,7 +6,6 @@
 
 The Agri Stock project aims to simplify cafeteria management by providing a comprehensive system that allows cafe owners to effortlessly create, modify, and print invoices, add and manage products, and control user access.
 
-### Project Video
 
 ## Key Features
 
