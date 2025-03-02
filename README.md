@@ -1,4 +1,4 @@
-<h1 align="center">Cafe Management System</h1>
+<h1 align="center">Agri Stock</h1>
 
 ## About The Project
 
